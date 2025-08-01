@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Flutter engine configuration for better performance -->
+    <bool name="flutter_enable_impeller">false</bool>
+    <bool name="flutter_enable_skia_renderer">true</bool>
+    <string name="flutter_renderer_backend">skia</string>
+    
+    <!-- Graphics optimization for Mali GPU -->
+    <bool name="enable_hardware_acceleration">true</bool>
+    <bool name="enable_vulkan_validation">false</bool>
+</resources>
