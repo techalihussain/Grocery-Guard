@@ -1,16 +1,31 @@
-# untitled
+## 📱 Screenshots
 
-A new Flutter project.
+### 📝 Sign Up Screen
+![Sign Up](images/Sign_Up.jpeg)
 
-## Getting Started
+### 🛠️ Admin Dashboard
+![Admin Dashboard](images/Admin_Dashboard.jpeg)
 
-This project is a starting point for a Flutter application.
+### 👤 Customer Dashboard
+![Customer Dashboard](images/Customer_Dashboard.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+### 🏬 Store User Dashboard
+![Storeuser Dashboard](images/Storeuser_Dashboard.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🧾 Vendor Dashboard
+![Vendor Dashboard](images/Vendor_Dashboard.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📊 Salesman Dashboard
+![Salesman Dashboard](images/Salesman_Dashboard.jpeg)
+
+### 📂 Categories Management
+![Categories](images/Categories.jpeg)
+
+### 📦 Products Management
+![Products](images/Products.jpeg)
+
+### 🛒 Purchases
+![Purchases](images/Purchases.jpeg)
+
+### 💰 Sales
+![Sales](images/Sales.jpeg)
